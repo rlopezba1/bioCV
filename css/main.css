@@ -13,10 +13,6 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: -webkit-gradient(linear, left top, right top, from(#272727), to(rgba(39, 39, 39, 0.3))), url("../img/foto2.jpg") center top;
-  background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.3)), url("../img/foto2.jpg") center top;
-  background-size: auto 150%;
-  background-repeat: no-repeat;
 }
 
 .home_name {
@@ -394,15 +390,11 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("../img/foto2.jpg") right top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../img/foto2.jpg") right top;
-  background-size: auto 200%;
-  background-repeat: no-repeat;
 }
 
 .contact h2 {
   font-size: 3rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 .contact_list {
